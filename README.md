@@ -1,8 +1,19 @@
-# Project Title
+<p align="center">
+  <img src="path/to/project-screenshot.png" alt="Project Screenshot" width="600">
+</p>
+
+# Sudoku Challenge
 
 Welcome to my project! This is a [brief description of your project]. It was developed as a part of [mention any specific purpose or goal].
 
 ## Technologies Used
+
+<p align="center">
+  <img src="path/to/technology1-logo.png" alt="Technology 1 Logo" width="50">
+  <img src="path/to/technology2-logo.png" alt="Technology 2 Logo" width="50">
+  <img src="path/to/technology3-logo.png" alt="Technology 3 Logo" width="50">
+  <!-- Add more technology logos as needed -->
+</p>
 
 - [Technology 1](link): Brief description of the technology and its role in the project.
 - [Technology 2](link): Brief description of the technology and its role in the project.
